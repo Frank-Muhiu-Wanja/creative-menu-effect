@@ -3,9 +3,6 @@
 A simple creative menu effect built with **HTML** and **CSS**.  
 The project features animated hover lines for navigation links and smooth transitions between multiple menu pages.
 
-## 📁 Project Structure
-
-
 ## ✨ Features
 
 - Modern hover line animation using pseudo-elements (`::before` and `::after`)
