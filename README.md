@@ -27,8 +27,5 @@ The project features animated hover lines for navigation links and smooth transi
 
 ![Creative Menu Preview](preview.png)
 
-
-
-👨‍💻 **Author:** Frank Wanja (Frank Ade Chains)  
 📅 **Project:** Creative Menu Effect
 
